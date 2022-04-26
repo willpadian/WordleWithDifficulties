@@ -1,0 +1,15 @@
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/bin/Debug/net5.0/WordleWithDifficulties.deps.json
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/bin/Debug/net5.0/WordleWithDifficulties.runtimeconfig.json
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/bin/Debug/net5.0/WordleWithDifficulties.runtimeconfig.dev.json
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/bin/Debug/net5.0/WordleWithDifficulties.dll
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/bin/Debug/net5.0/ref/WordleWithDifficulties.dll
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/bin/Debug/net5.0/WordleWithDifficulties.pdb
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/obj/Debug/net5.0/WordleWithDifficulties.csproj.AssemblyReference.cache
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/obj/Debug/net5.0/WordleWithDifficulties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/obj/Debug/net5.0/WordleWithDifficulties.AssemblyInfoInputs.cache
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/obj/Debug/net5.0/WordleWithDifficulties.AssemblyInfo.cs
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/obj/Debug/net5.0/WordleWithDifficulties.csproj.CoreCompileInputs.cache
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/obj/Debug/net5.0/WordleWithDifficulties.dll
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/obj/Debug/net5.0/ref/WordleWithDifficulties.dll
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/obj/Debug/net5.0/WordleWithDifficulties.pdb
+/Users/willpadian/Documents/GitHub/WordleWithDifficulties/obj/Debug/net5.0/WordleWithDifficulties.genruntimeconfig.cache
